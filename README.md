@@ -18,6 +18,8 @@ I’m passionate about game development, programming, level design, modding, cre
   - Godot
   - GameMaker: Studio 1 & 2
   - Roblox
+  - Ren'py
+
   - RPG Maker
 - Have been developing a [custom Lua game engine](https://github.com/xthelifex/station-architect) built on top of **Love2D** for hobby projects.  
 - Extensive experience with **Lua scripting** for various platforms, including:  
@@ -27,12 +29,14 @@ I’m passionate about game development, programming, level design, modding, cre
 
 ---
 
-### **Design**
-- Some experience in making User Interfaces in Roblox and Godot
+### **Design & Examples**
+Below is some of my experience making User Interfaces for Roblox and Godot, as well as some other showcases of my work related to programming.
 
 https://github.com/user-attachments/assets/e05f0223-9339-4eb0-a850-d65cb1b71be8
 
 https://github.com/user-attachments/assets/f7362101-d7df-4c0f-a383-08af9f68ad93
+
+https://github.com/user-attachments/assets/79018f07-407f-447e-9b85-1726a083869e
 
 ---
 
