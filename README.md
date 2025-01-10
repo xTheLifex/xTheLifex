@@ -12,7 +12,7 @@ I’m passionate about game development, programming, level design, modding, cre
 ## **Skills**
 
 ### **Programming**  
-- Prototyped an **educational mobile game** for the local government using **Unity**
+- Prototyped an **educational mobile game** for the local government using **Unity** (hidden due to containing sensitive / personal info. Can show upon asking.)
 - Experience in some game engines, through years of prototyping personal hobby projects.
   - Unity
   - Godot
