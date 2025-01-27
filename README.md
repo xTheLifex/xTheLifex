@@ -3,6 +3,8 @@
 ### Hello, I’m TheLife!  
 I’m passionate about game development, programming, level design, modding, creating fun experiences and most importantly: art.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H219OJPF)
+
 ### Contact Me  
 - **Discord:** `thelife`  
 - **Steam:** [TheLifey](https://steamcommunity.com/id/TheLifey)
@@ -50,8 +52,10 @@ Skilled in level design and enthusiast for environmental storytelling. Below are
 Unfinished (No art pass):
 ![Unfinished parking lot vibe thing](https://github.com/xTheLifex/xTheLifex/assets/24512655/56896e5e-d12a-456a-aae4-e70b09cfa4cb)  
 
+### **Source Filmmaker**
+I also make posters in SFM, and i'm learning S2FM as well!
 
-
-
+![md](https://github.com/user-attachments/assets/3e79cbf5-37da-49ec-ae62-25efdd8642ec)
+![gmodlike](https://github.com/user-attachments/assets/67245106-eef6-4950-9bc6-85281e7a110c)
 
 
